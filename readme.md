@@ -3,6 +3,3 @@
 <a href="https://github.com/Yisak5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/issac1162@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issac1162@gmail.com)](https://github.com/issac1162@gmail.com/github-readme-stats)
-<br>
