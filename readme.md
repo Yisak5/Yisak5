@@ -29,4 +29,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-<a href="https://shelled-beard-092.notion.site/Portfolio-862254f2aba84039b83ae7bac7b31808">포트폴리오</a>
+<a align="center" href="https://shelled-beard-092.notion.site/Portfolio-862254f2aba84039b83ae7bac7b31808">포트폴리오</a>
