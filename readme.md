@@ -1,11 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Yisak%20Oh&fontSize=90" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/issac1162@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</p>
-
 <h3 align="center">
 :seedling: Tech Stack
 </h3>
